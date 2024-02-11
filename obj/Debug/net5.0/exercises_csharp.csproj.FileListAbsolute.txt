@@ -17,7 +17,6 @@
 /Users/macbookpro/ProyectosGithub/csharp_exercises/bin/Debug/net5.0/exercises_csharp.runtimeconfig.json
 /Users/macbookpro/ProyectosGithub/csharp_exercises/bin/Debug/net5.0/exercises_csharp.runtimeconfig.dev.json
 /Users/macbookpro/ProyectosGithub/csharp_exercises/bin/Debug/net5.0/exercises_csharp.dll
-/Users/macbookpro/ProyectosGithub/csharp_exercises/bin/Debug/net5.0/ref/exercises_csharp.dll
 /Users/macbookpro/ProyectosGithub/csharp_exercises/bin/Debug/net5.0/exercises_csharp.pdb
 /Users/macbookpro/ProyectosGithub/csharp_exercises/obj/Debug/net5.0/exercises_csharp.csproj.AssemblyReference.cache
 /Users/macbookpro/ProyectosGithub/csharp_exercises/obj/Debug/net5.0/exercises_csharp.GeneratedMSBuildEditorConfig.editorconfig
@@ -28,3 +27,5 @@
 /Users/macbookpro/ProyectosGithub/csharp_exercises/obj/Debug/net5.0/ref/exercises_csharp.dll
 /Users/macbookpro/ProyectosGithub/csharp_exercises/obj/Debug/net5.0/exercises_csharp.pdb
 /Users/macbookpro/ProyectosGithub/csharp_exercises/obj/Debug/net5.0/exercises_csharp.genruntimeconfig.cache
+/Users/macbookpro/ProyectosGithub/csharp_exercises/bin/Debug/net5.0/exercises_csharp
+/Users/macbookpro/ProyectosGithub/csharp_exercises/obj/Debug/net5.0/refint/exercises_csharp.dll
